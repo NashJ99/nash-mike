@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "name": "nash-mike",
+  "version": "1.0.0",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NashJ99/nash-mike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NashJ99/nash-mike/issues"
+  },
+  "homepage": "https://github.com/NashJ99/nash-mike#readme",
+  "description": ""
 }
